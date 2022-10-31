@@ -1,5 +1,5 @@
 - Integrated M.S./Ph.D student in **Korea University**, department of **Artificial Intelligence**.
-- Interested in **Graph Neural Networks**, **Geometric Deep Learning**
+- Interested in **Geometric Deep Learning**
 
 - Contact : ksjsungjune@korea.ac.kr
 
