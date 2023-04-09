@@ -1,5 +1,5 @@
 - Ph.D student in **Korea University**, department of **Artificial Intelligence**.
-- Interested in **Geometric Deep Learning**
+- Interested in **Computer Vision, Geometric Deep Learning**
 
 - Contact : ksjsungjune@korea.ac.kr
 
