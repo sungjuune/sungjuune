@@ -1,5 +1,5 @@
 - Ph.D student in **Korea University**, department of **Artificial Intelligence**.
-- Interested in **Computer Vision, Geometric Deep Learning**
+- Interested in **Computer Vision, Autonomous Driving**
 
 - Contact : ksjsungjune@korea.ac.kr
 
